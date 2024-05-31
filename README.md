@@ -290,3 +290,36 @@ A card visual was used to   Display a tabular grid chart.
 
  
 ![Screenshot 2024-05-31 212202](https://github.com/itsJeromeJ/PowerBi_car_sales/assets/146847635/44beb458-37a4-4218-935e-3e68503e66c4)
+
+# Insights
+
+A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+
+Following inferences can be drawn from the dashboard;
+
+
+### [1]  YTD Total Sales by Body Style:
+
+   The YTD Total Sales of SUV = 26.91%
+
+   The YTD Total Sales of Hatchback =22.3%
+
+   The YTD Total Sales of Sedan =19.85%
+
+   The YTD Total Sales of Passenger =17.09%
+   
+   The YTD Total Sales of Hardtop =13.85%
+   
+
+           thus, higher percentage of YTD Sales by Body Style are SUV 
+           
+### [2]  YTD Total Sales by Color:
+
+   The  YTD Total Sales by pale white Color  = 47.02%
+
+The  YTD Total Sales by black Color  =33.74%
+
+   The  YTD Total Sales by red Color  = 19.24%
+   
+
+           Thus, higher percentage of YTD Sales by color are pale white Color 
